@@ -1,0 +1,10 @@
+.labelStyles {
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #fff;
+    text-align: center;
+}
+
+ion-content {
+    --background: linear-gradient(#eb9f3c, #616b31);
+}
